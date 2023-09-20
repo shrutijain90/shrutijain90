@@ -1,1 +1,1 @@
-I am a PhD Candidate at the School of Geography and the Environment, University of Oxford. I am interested to use remote sensing and machine learning methods to tackle food security challenges amidst a changing climate. 
+I am a PhD Candidate at the School of Geography and the Environment, University of Oxford. I use remote sensing and machine learning methods to tackle food security challenges amidst a changing climate. 
